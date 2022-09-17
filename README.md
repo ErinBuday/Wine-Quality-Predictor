@@ -1,8 +1,8 @@
-# Wine-Quality-Predictor
+# Wine Quality Predictor
 
 ![wine3](https://user-images.githubusercontent.com/100641752/190864152-3d2f5147-21fc-47fc-b847-c124c4909745.jpg)
 
-#### Project Description/Outline
+#### Project Description
 Our team was looking to create a machine learning model to determine the quality of red variants of the Portuguese "Vinho Verde" wine based on certain characteristics of the wine.
 
 We pulled the following dataset from Kaggle to use for this project. This dataset includes a total of 12 columns, 11 of them are the characteristics of wine and one column is the quality of the wine.
@@ -23,6 +23,6 @@ In this repository, we have the Jupyter notebook with the data and the model, th
 
 Team Members: Derek Mast, Rolly Costillas, Erin Buday, Muhammad Malik
 
-Dataset to be Used
+Dataset Reference:
 
 https://www.kaggle.com/code/nugrahapurnamaaji/regression-clustering-wine-quality-dataset/data
