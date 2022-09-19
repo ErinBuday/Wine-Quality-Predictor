@@ -14,7 +14,7 @@ https://www.kaggle.com/code/nugrahapurnamaaji/regression-clustering-wine-quality
 2. Pulled the data from PostgresSQL into Python
 3. We checked for null values or missing data to ensure that the data was cleaned and ready for analysis.
 4. Created the model using the cleaned data
-5. Uploaded the CSV file, we created some images in Tableau
+5. We uploaded the CSV file into Tableau and created some images.
 
 #### Conclusion
 Based on our dataset, we decided to use a Supervised learning model. We looked into multiple Supervised learning models to determine the best one to use for the project. After reviewing the models and their summary scores, we determined that the best model to use was Support Vector Classifier. Based on the analysis, we could see that there only a few characteristics of the wine that can help determine the quality.
